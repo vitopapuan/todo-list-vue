@@ -1,4 +1,4 @@
-# vue-crash-2021
+# todo-list-vue
 
 ## Project setup
 ```
@@ -13,6 +13,11 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
+```
+
+### Start JSON Server
+```
+npm run backend
 ```
 
 ### Customize configuration
